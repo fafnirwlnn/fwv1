@@ -1,0 +1,1 @@
+console.log("FAFNIR STORE READY");
